@@ -1,6 +1,3 @@
-# butterfly-moth-image-classification
-Butterfly and Moths Image Classification of 100 species using HOG and ResNet50
-
 # Butterfly/Moth Image Classification Project
 
 This project aims to classify butterfly and moth species using two distinct methods: traditional machine learning and deep learning. The goal is to compare the performance of these approaches in accurately identifying species from images.
