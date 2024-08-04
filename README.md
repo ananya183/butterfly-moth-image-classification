@@ -1,6 +1,9 @@
 # Butterfly/Moth Image Classification Project (100 Species)
 
 This project aims to classify butterfly and moth species using two distinct methods: traditional machine learning and deep learning. The goal is to compare the performance of these approaches in accurately identifying species from images.
+We compared traditional ML models and ResNet50 for butterfly and moth classification, with ResNet50 achieving higher accuracy.
+
+
 
 ## Methodology
 
